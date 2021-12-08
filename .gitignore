@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+py_pkg.Rproj
+py_pkg.pyproj
+__pycache__
+.vscode
+.vs
